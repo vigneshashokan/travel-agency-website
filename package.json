@@ -1,0 +1,23 @@
+{
+  "name": "travel-agency-website",
+  "version": "1.0.0",
+  "description": "fictional tavel agency website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vigneshashokan/travel-agency-website.git"
+  },
+  "author": "vignesh ashokan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vigneshashokan/travel-agency-website/issues"
+  },
+  "homepage": "https://github.com/vigneshashokan/travel-agency-website#readme",
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "normalize.css": "^5.0.0"
+  }
+}
